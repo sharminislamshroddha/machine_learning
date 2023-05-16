@@ -5,7 +5,7 @@ There are three types of ML:
 * Unsupervised learning
 * Reinforcement learning
 
-<br><br>
+<br>
 ## File Descriptions:
 
 **001_pandas_titanic_dataset.ipynb** => This code operates on a Pandas DataFrame and performs data manipulation and analysis tasks. It includes functionality to load, clean, transform, and analyze tabular data. The code utilizes various Pandas methods and functions to handle missing values, apply filters and conditions, compute statistical measures, perform aggregations, and visualize data.
@@ -25,4 +25,4 @@ There are three types of ML:
 
 **007_random_forest_regressor_pipeline_using_library.ipynb** => A Random Forest Regressor pipeline has been implemented using the pipeline function from the scikit-learn library. This notebook demonstrates how the pipeline function simplifies the code by streamlining the data preprocessing and modeling steps.
 
-**008_end_to_end_machine_learning_project.ipynb** => This project focuses on implementing a complete end-to-end machine learning workflow, covering tasks such as data exploration, preprocessing, feature engineering, model selection, and evaluation. This implemented code provides practical insights and guidance for building robust machine learning pipelines from start to finish."
+**008_end_to_end_machine_learning_project.ipynb** => This project focuses on implementing a complete end-to-end machine learning workflow, covering tasks such as data exploration, preprocessing, feature engineering, model selection, and evaluation. This implemented code provides practical insights and guidance for building robust machine learning pipelines from start to finish.
