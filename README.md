@@ -27,3 +27,6 @@ There are three types of ML:
 **007_random_forest_regressor_pipeline_using_library.ipynb** => A Random Forest Regressor pipeline has been implemented using the pipeline function from the scikit-learn library. This notebook demonstrates how the pipeline function simplifies the code by streamlining the data preprocessing and modeling steps.
 
 **008_end_to_end_machine_learning_project.ipynb** => This project focuses on implementing a complete end-to-end machine learning workflow, covering tasks such as data exploration, preprocessing, feature engineering, model selection, and evaluation. This implemented code provides practical insights and guidance for building robust machine learning pipelines from start to finish.
+
+**009_maze_reinforcement_learning.ipynb** => This project focuses on implementing a reinforcement learning algorithm to solve a maze problem. It demonstrates how an agent can learn to navigate and find the optimal path through a maze environment using reinforcement learning techniques.
+
