@@ -3,7 +3,7 @@
 * Supervised Learning Methods
 * Applicable => When the data points of a dataset are separable by a linear line.<br><br>
 * <b>Hyperplane/ Decision boundary</b> => separates data points belonging to different classes in a given feature space.<br><br>
-* <b>The margin</b> => It is defined as the perpendicular distance between the hyperplane and the closest data points from each class.<br><br>
+* <b>The margin</b> => It is defined as the perpendicular distance between the hyperplane and the closest data points from each class. <br><br>
 
 <p align="center">
     <img width="300" src="https://github.com/sharminislamshroddha/machine_learning/assets/133664253/7ce2b769-3552-4176-94fe-e213c73b6f7f">
@@ -32,4 +32,9 @@ out of the total actual positive instances. It measures the model's ability to m
 <ins>F1-score:</ins> The harmonic mean of precision and recall, which provides a balanced measure of a model's performance. 
 It combines precision and recall into a single metric. <br><br>
 <ins>Support:</ins> The number of occurrences of each class in the true dataset.
+<br><br>
 
+
+#### Refference:
+<a href="https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python">Support Vector Machines with Scikit-learn Tutorial</a> <br>
+<a href="https://youtu.be/ny1iZ5A8ilA">Support Vector Machines: All you need to know!</a>
