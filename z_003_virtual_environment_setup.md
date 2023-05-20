@@ -5,7 +5,7 @@
 
   `python -m venv venv` 
 
-* Now install the dependencies(download the requirements.txt file from my github):
+* Now install the dependencies(download the **[requirements.txt](https://github.com/sharminislamshroddha/machine_learning/blob/main/requirements.txt)** file from my github):
 
   `python -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn graphviz`
 
