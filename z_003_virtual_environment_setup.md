@@ -29,3 +29,8 @@
 * Install jupyter:
   
   `pip install jupyter`
+  
+* Open Jupyter notebook from command prompt:
+  
+  `jupyter notebook`
+ 
