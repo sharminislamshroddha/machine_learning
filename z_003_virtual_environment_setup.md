@@ -13,14 +13,19 @@
 
   `python -m pip freeze > requirements.txt`
 
-* If you are having trouble activating the venv, set execution polity:
-  
-  `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`
-
 * Now active the virtual environment:
 
   `.\venv\Scripts\activate`
 
+* If you are having trouble activating the venv, set execution polity:
+  
+  `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted`
+
 * Install requirements:
   
   `pip install -r requirements.txt`
+  
+  
+* Install jupyter:
+  
+  `pip install jupyter`
