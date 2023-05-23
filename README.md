@@ -30,3 +30,4 @@ There are three types of ML:
 
 **009_maze_reinforcement_learning.ipynb** => This project focuses on implementing a reinforcement learning algorithm to solve a maze problem. It demonstrates how an agent can learn to navigate and find the optimal path through a maze environment using reinforcement learning techniques.
 
+**010_dimensionality_reduction.ipynb** => This code represents the effects of different dimensionality reduction models on the MNIST dataset from scikit-learn. It provides visualizations and analysis of the dataset before and after applying techniques like PCA. Also t-SNE, LDA and Random Projection have been implemented in this file of codes. The goal is to understand how these models impact the dataset's dimensionality.
