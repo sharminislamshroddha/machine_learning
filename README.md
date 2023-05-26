@@ -49,3 +49,6 @@ There are three types of ML:
 
 
 **014_maze_reinforcement_learning.ipynb** => This project focuses on implementing a reinforcement learning algorithm to solve a maze problem. It demonstrates how an agent can learn to navigate and find the optimal path through a maze environment using reinforcement learning techniques.
+
+
+**015_matplotlib_essentials.ipynb** => This code demonstrates how to use Matplotlib to save a figure, create multiple figures, draw text, plot data in polar projection, create scatter plots, histograms, and image plots.
